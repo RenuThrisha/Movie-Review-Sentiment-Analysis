@@ -2,6 +2,8 @@
 
 A small sentiment-analysis project that classifies a movie review as **positive** or **negative** using a SimpleRNN trained on the IMDB movie-review dataset. A Streamlit app provides an interface for entering a review and viewing the predicted sentiment and score.
 
+Demo Link:https://movie-review-sentiment-analysis-bhyxlj6qu7cofbzrvjwhpz.streamlit.app/
+
 ## Project files
 
 - `app.py` — Streamlit application; loads `rnn_imdb.h5`, preprocesses the entered review, and displays a prediction.
